@@ -1,2 +1,2 @@
 this is pelumi project.
-let the dance begin
+let the dance begin.
