@@ -10,6 +10,15 @@ variable "location" {
 
 variable "admin_login" {
     description = "Administrator login name for SQL server"
-    default     = "yomistsqladmin"
+    default     = "comenymsqladmin"
 }
 
+variable "sql_database_name" {
+    description = "The name of the database"
+    default = "comenym1sql"  
+}
+
+variable "sql_server_name" {
+    description = "The name of the database"
+    default = "comenym1sqlserver"  
+}
